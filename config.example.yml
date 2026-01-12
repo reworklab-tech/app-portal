@@ -1,0 +1,8 @@
+# Contoh konfigurasi. Salin menjadi config.yml lalu sesuaikan.
+database:
+  host: db-internal.reworklab-tech.example
+  port: 5432
+  name: portal
+cache:
+  host: cache-internal.reworklab-tech.example
+  port: 6379
